@@ -3,7 +3,7 @@
 A simple web application to check whether a given number is even or odd. This project provides a user-friendly interface where users can input a number, and the application will determine if it's even or odd. It includes basic HTML, CSS, and JavaScript, making it a great starting point for beginners interested in web development.
 
 ## Demo
-![home](https://github.com/rohankadi/Number-Even-or-Odd-Checker/assets/118832951/287c63ff-7130-4190-b079-0c135b860576)
+![home](https://github.com/rohankadi/Number-Even-or-Odd-Checker/assets/118832951/e75044e9-9b35-4e13-8075-1e32ad112b1a)
 ![EvenNumber](https://github.com/rohankadi/Number-Even-or-Odd-Checker/assets/118832951/a1a82560-5dc1-46a4-8dff-d52fdabe0ccf)
 ![OddNumber](https://github.com/rohankadi/Number-Even-or-Odd-Checker/assets/118832951/cc66ceee-e66e-4d3b-a44e-267bfca17c00)
 
